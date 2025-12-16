@@ -48,7 +48,7 @@ Sección dedicada a:
 
 ### Enfoque del Proyecto
 La plataforma promueve:
-- Alimentación saludable
-- Educación nutricional
-- Uso responsable de la tecnología para mejorar la calidad de vida
+1. Alimentación saludable
+2. Educación nutricional
+3. Uso responsable de la tecnología para mejorar la calidad de vida
 
