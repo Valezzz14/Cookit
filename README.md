@@ -16,29 +16,36 @@ Desarrollar una plataforma web que permita a los usuarios descubrir, organizar y
 - Ofrecer una interfaz intuitiva, moderna y adaptable a dispositivos móviles.- 
 
 
-## Características Claves del Sitio
-# Buscador de Recetas
+# Características Claves del Sitio
+## Buscador de Recetas
 Permite buscar recetas de forma rápida y sencilla utilizando filtros como:
 - Ingredientes-
 - Tipo de dieta-
 - Tiempo de preparación-
 
+## Consejos Nutricionales
+Sección dedicada a:
+- Artículos sobre alimentación saludable
+- Recomendaciones nutricionales
+- Educación sobre hábitos alimenticios positivos
 
-## Justificación del Proyecto
-StartFit permite digitalizar y centralizar el control de clientes en un gimnasio, vinculando sus datos personales con planes de membresía predefinidos. Esto reduce los errores, mejora el control de pagos y acelera los procesos de registro, edición y eliminación de usuarios, contribuyendo a una administración más eficiente.
+## Interfaz Amigable
+- Diseño intuitivo y fácil de usar
+- Adaptable a dispositivos móviles (responsive design)
+- Enfocada en la experiencia del usuario
+- 
+# Arquitectura del Sitio
+## Página Principal
+- Presentación general del sitio
+- Acceso rápido a las secciones principales
+## Página de Recetas
+- Listado de recetas disponibles
+- Filtros de búsqueda
+## Detalles de Receta
+- Ingredientes
+- Pasos de preparación
+- Información adicional
 
-## Análisis de Requerimientos
-## Requerimientos funcionales:
-- Registrar nuevos clientes con sus datos personales y su membresía.
-- Buscar clientes registrados por nombre o ID.
-- Editar la información de un cliente y su tipo de membresía.
-- Eliminar registros de clientes.
-- Calcular automáticamente el precio de acuerdo con el tipo de membresía seleccionada.
-## Requerimientos no funcionales
-- Interfaz clara y fácil de usar.
-- Seguridad en el acceso y almacenamiento de datos.
-- Rapidez en el acceso a los registros.
-- Compatibilidad con dispositivos móviles y escritorio.
 ### Funcionalidades Clave
 
 1. **Gestión de Clientes**  
