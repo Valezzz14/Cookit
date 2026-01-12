@@ -1,54 +1,66 @@
 ##  Descripción del Proyecto
-Este proyecto consiste en el desarrollo de una plataforma web de recetas saludables, enfocada en promover una alimentación equilibrada, accesible y consciente para todo tipo de usuarios.
-El sitio está alineado con el bienestar y la salud nutricional, ofreciendo recetas fáciles de preparar y adaptadas a distintas necesidades alimenticias, como dietas vegetarianas, veganas, sin gluten o bajas en calorías. Además, la plataforma busca educar a los usuarios sobre los beneficios de mantener hábitos alimenticios saludables.
+Cookit es una plataforma web dedicada a la difusión de recetas saludables y prácticas, creada con el objetivo de ayudar a las personas a mejorar sus hábitos alimenticios de una manera sencilla, accesible y consciente.
+El sitio está enfocado en promover una alimentación equilibrada, combinando recetas fáciles de preparar con información útil sobre nutrición y bienestar.
+
+Cookit ofrece recetas adaptadas a diferentes estilos de vida y necesidades alimenticias, como dietas vegetarianas, veganas, bajas en calorías o libres de ciertos ingredientes. Además, la plataforma busca educar a los usuarios sobre la importancia de una buena alimentación y cómo esta influye directamente en la calidad de vida.
 
 ## Objetivo General
-Desarrollar una plataforma web que permita a los usuarios descubrir, organizar y aprender sobre recetas saludables, fomentando una mejor calidad de vida a través de la nutrición.
+Desarrollar una plataforma web llamada Cookit que permita a los usuarios descubrir, organizar y aprender sobre recetas saludables, fomentando hábitos alimenticios responsables y una mejor calidad de vida a través de la nutrición.
 
 ## Objetivos Específicos
+- Facilitar la búsqueda de recetas saludables mediante filtros como ingredientes, tipo de dieta o tiempo de preparación.
 
-- Facilitar la búsqueda de recetas según ingredientes, tipo de dieta o tiempo de preparación.
+- Permitir a los usuarios visualizar recetas claras y bien estructuradas con ingredientes y pasos de preparación.
 
-- Permitir a los usuarios guardar recetas favoritas y crear listas de compras.
+- Brindar información nutricional básica y consejos prácticos para una alimentación saludable.
 
-- Brindar información nutricional y consejos prácticos sobre alimentación saludable.
-  
-- Ofrecer una interfaz intuitiva, moderna y adaptable a dispositivos móviles.
+- Ofrecer una interfaz intuitiva, moderna y adaptable a distintos dispositivos, especialmente móviles.
 
 
 # Características Claves del Sitio
 ## Buscador de Recetas
-Permite buscar recetas de forma rápida y sencilla utilizando filtros como:
-- Ingredientes
-- Tipo de dieta
-- Tiempo de preparación
+Cookit cuenta con un buscador que permite encontrar recetas de manera rápida y eficiente, utilizando filtros como:
+- Ingredientes disponibles
+- Tipo de alimentación (vegetariana, saludable, ligera, etc.)
+- Tiempo estimado de preparación
+
+Esto facilita que los usuarios encuentren opciones acordes a sus necesidades y tiempo disponible.
 
 ## Consejos Nutricionales
-Sección dedicada a:
-- Artículos sobre alimentación saludable
-- Recomendaciones nutricionales
-- Educación sobre hábitos alimenticios positivos
+La plataforma incluye una sección informativa dedicada a:
+- Consejos sobre alimentación saludable
+- Recomendaciones nutricionales básicas
+- Promoción de hábitos alimenticios positivos
+
+Esta sección busca educar y concientizar a los usuarios sobre la importancia de una dieta equilibrada.
 
 ## Interfaz Amigable
-- Diseño intuitivo y fácil de usar
-- Adaptable a dispositivos móviles (responsive design)
-- Enfocada en la experiencia del usuario
-- 
+Cookit está diseñada pensando en la experiencia del usuario, ofreciendo:
+- Un diseño intuitivo y fácil de usar
+- Navegación clara y organizada
+- Adaptabilidad a dispositivos móviles (responsive design)
+
+Una presentación visual atractiva y funcional
+
 # Arquitectura del Sitio
 ## Página Principal
-- Presentación general del sitio
-- Acceso rápido a las secciones principales
+- Presentación general de Cookit
+- Introducción al concepto de alimentación saludable
+- Acceso rápido a las secciones principales del sitio
+  
 ## Página de Recetas
 - Listado de recetas disponibles
-- Filtros de búsqueda
+- Opciones de filtrado para facilitar la búsqueda
+- Visualización clara de cada receta
+  
 ## Detalles de Receta
-- Ingredientes
-- Pasos de preparación
-- Información adicional
+- Lista de ingredientes
+- Pasos detallados de preparación
+- Información adicional relacionada con la receta
 
 ### Enfoque del Proyecto
-La plataforma promueve:
-1. Alimentación saludable
-2. Educación nutricional
+Cookit se fundamenta en los siguientes pilares:
+1. Promoción de la alimentación saludable
+2. Educación nutricional accesible para todos
 3. Uso responsable de la tecnología para mejorar la calidad de vida
 
